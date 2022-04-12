@@ -1,3 +1,5 @@
+# More details can be found in TechToTinker.blogspot.com 
+# George Bantique | tech.to.tinker@gmail.com
 
 from machine import Pin
 from machine import I2C
